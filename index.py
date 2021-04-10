@@ -1,4 +1,10 @@
 # -*- coding: latin-1 -*-
 
 import sys
-print(sys.path)
+
+class public():
+    
+   def public_method(self):
+        print()
+   
+
